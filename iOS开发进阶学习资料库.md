@@ -43,8 +43,7 @@
 
 **iOS进阶：**
 
-![](https://upload-images.jianshu.io/upload_images/13277235-c59fcb592423dfdb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+![](https://upload-images.jianshu.io/upload_images/13277235-21d877147393433f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 **架构：**
 
