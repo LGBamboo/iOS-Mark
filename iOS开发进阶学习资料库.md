@@ -66,6 +66,7 @@
 **希望获取到的你；能好好利用，提升自己！**
 
 >**资料获取方式：加入合作-iOS高级技术交流Q圈：[937194184](https://jq.qq.com/?_wv=1027&k=5PARXCI)，管理处免费领取全套iOS资料**
+>
 >**点击-直接加入：[iOS高级技术交流Q圈](https://jq.qq.com/?_wv=1027&k=5PARXCI)**
 
 ***
@@ -92,7 +93,8 @@
 
 
 >**资料获取方式：加入合作-iOS高级技术交流Q圈：[937194184](https://jq.qq.com/?_wv=1027&k=5PARXCI)，管理处免费领取全套iOS资料**
-**点击-直接加入：[iOS高级技术交流Q圈](https://jq.qq.com/?_wv=1027&k=5PARXCI)**
+>
+>**点击-直接加入：[iOS高级技术交流Q圈](https://jq.qq.com/?_wv=1027&k=5PARXCI)**
 
 ![](https://upload-images.jianshu.io/upload_images/13277235-626baa02cf82d6c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
