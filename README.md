@@ -21,7 +21,7 @@
 
 * **3、BAT等各个大厂iOS面试真题+答案.PDF文档**
 
-* **特别篇：[4、iOS高级面试简历指导](https://github.com/LGBamboo/iOS-offer/tree/main)**
+* **特别篇：[4、iOS高级面试简历指导](https://github.com/LGBamboo/iOS-offer/tree/main)【底部无介绍；点击跳转观看】**
 
 
 
