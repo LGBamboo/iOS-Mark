@@ -62,7 +62,6 @@
 
 ![](https://upload-images.jianshu.io/upload_images/13277235-4a94d6efef7759d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![](https://upload-images.jianshu.io/upload_images/13277235-ab05d8e3a47b5615.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ***
 
