@@ -72,7 +72,7 @@
 >**视频个人获取：请私加合作-- VX：iOSchenchen1234，或者 QQ: 169911468 ；**
 >
 >**添加时请备注：iOS面试教学视频；**
-(PS:请勿外传，仅仅个人学习使用)
+(Ps:请勿外传，仅仅个人学习使用)
 
 ![微信二维码](https://upload-images.jianshu.io/upload_images/13277235-4416b349e4a371e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
