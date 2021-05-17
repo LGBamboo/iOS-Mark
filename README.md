@@ -45,15 +45,6 @@
 ![](https://upload-images.jianshu.io/upload_images/13277235-707ad69e667d7da4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-**算法书籍内容展示：**
-
-![](https://upload-images.jianshu.io/upload_images/13277235-60593e0e0654f730.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![](https://upload-images.jianshu.io/upload_images/13277235-4a94d6efef7759d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![](https://upload-images.jianshu.io/upload_images/13277235-ab05d8e3a47b5615.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
 ***
 
 **还用很多内容，就不详细展示了，这是全网独一份的，也是含金量很高的书籍资料；**
