@@ -21,7 +21,7 @@
 
 * **2、iOS开发全套面试教学视频**
 
-* **3、BAT等各个大厂iOS面试真题+答案.PDF文档**
+* **3、BAT等各个大厂iOS面试真题+答案大全**
 
 * **特别篇：[4、iOS高级面试简历指导](https://github.com/LGBamboo/iOS-offer/tree/main)【底部无介绍；点击跳转观看】**
 
