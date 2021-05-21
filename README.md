@@ -25,6 +25,8 @@
 
 * **特别篇：[4、iOS高级面试简历指导](https://github.com/LGBamboo/iOS-offer/tree/main)【底部无介绍；点击跳转观看】**
 
+* **新增文集：[5、全网各大厂iOS面试题-文集大全](https://github.com/LGBamboo/iOS-Advanced)** 
+
 
 ***
 
