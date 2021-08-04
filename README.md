@@ -34,7 +34,7 @@
 
 ### 收集整理：BAT等各个大厂iOS面试真题+答案.PDF文档
 
->**资料获取：[加-iOS高级技术交流Q圈](https://jq.qq.com/?_wv=1027&k=5PARXCI)**
+>**资料获取：[加-iOS高级技术交流Q圈](https://jq.qq.com/?_wv=1027&k=GynQasZN)**
 
 ![](https://upload-images.jianshu.io/upload_images/13277235-626baa02cf82d6c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -45,9 +45,9 @@
 
 **希望获取到的你；能好好利用，提升自己！**
 
->**资料获取方式：加入合作-iOS高级技术交流Q圈：[937194184](https://jq.qq.com/?_wv=1027&k=5PARXCI)，管理处免费领取全套iOS资料**
+>**资料获取方式：加入合作-iOS高级技术交流Q圈：[563513413](https://jq.qq.com/?_wv=1027&k=GynQasZN)，管理处免费领取全套iOS资料**
 >
->**点击-直接加入：[iOS高级技术交流Q圈](https://jq.qq.com/?_wv=1027&k=5PARXCI)**
+>**点击-直接加入：[iOS高级技术交流Q圈](https://jq.qq.com/?_wv=1027&k=GynQasZN)**
 
 ***
 
@@ -92,9 +92,9 @@
 **还用很多内容，就不详细展示了，这是全网独一份的，也是含金量很高的书籍资料；**
 
 
->**资料获取方式：加入合作-iOS高级技术交流Q圈：[937194184](https://jq.qq.com/?_wv=1027&k=5PARXCI)，管理处免费领取全套iOS资料**
+>**资料获取方式：加入合作-iOS高级技术交流Q圈：[563513413](https://jq.qq.com/?_wv=1027&k=GynQasZN)，管理处免费领取全套iOS资料**
 >
->**点击-直接加入：[iOS高级技术交流Q圈](https://jq.qq.com/?_wv=1027&k=5PARXCI)**
+>**点击-直接加入：[iOS高级技术交流Q圈](https://jq.qq.com/?_wv=1027&k=GynQasZN)**
 
 ***
 ### 翻到底了，我也是有底线的
